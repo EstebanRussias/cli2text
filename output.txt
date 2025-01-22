@@ -1,0 +1,18 @@
+📄 cli2text.js (1962.0 B)
+📄 cli2text_.js (2034.0 B)
+📂 cli2text_specifications
+   📄 README.md (4431.0 B)
+   📂 src
+      📂 components
+         📄 taskItem.html (116.0 B)
+      📂 css
+         📄 styles.css (774.0 B)
+         📄 themes.css (0.0 B)
+      📂 data
+         📄 tasks.json (126.0 B)
+      📄 index.html (757.0 B)
+      📂 js
+         📄 app.js (523.0 B)
+         📄 dom.js (341.0 B)
+         📄 storage.js (316.0 B)
+📄 téléchargement.jpg (8782.0 B)
